@@ -314,7 +314,7 @@ Rapid fire shoutouts of what people are proud of from the week.
 
 # How to hold great demos
 
-Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph
+Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, Jake Rudolph, and Seneca Forster
 
 </div>
 
@@ -327,6 +327,9 @@ The following are some learnings from a few years of facilitating demos:
 - **Visuals**: Ideally, having accompanying visuals is fantastic! Visuals are more engaging and get people excited about the project. They also help give a sense of the project through pictures used for documentation and social media. This doesn’t have to be a screen-shared website. It can be a physical painting, hardware project, or even the demoer themselves doing something live (i.e. guitarist)
 - **Storytelling**: Encourage demo-ers to tell a story! Especially if it’s the first time someone is demoing, encourage them to start by sharing why they are working on their project.
 - **Keep an eye on the time**: Time boxing is essential as audiences can become disengaged if demos go on for too long. Display a visible timer for the presenter, complete with a noticeable ringtone to signal the end of their allocated time.
+You can also try non-verbal cues. If you’re using a countdown timer on a laptop facing the presenter, you can motion towards the timer, use hand gestures, or hold up small time cards to notify time limits to the presenter.
+Mention time limits to everyone when starting demos. You can also screen share or write the time limits on a whiteboard near the demo area to help people keep them in mind.
+When having to end demos or questions mid-way, remind people that they can ask more questions and chat with presenters after the session.
 - **Encourage people to ask questions:** Allocate time for questions; they often reveal valuable insights that could be the highlight of the session! To make sure that there is a variety of people asking questions across demos, as a host, tap on some folks and encourage them to ask questions. To build a strong culture, you have to actively create it. \
   Some ways we’ve done this that have been successful are:
   _ Encouraging specific people who are eager to ask and haven’t gotten a chance yet to demoers. Encourage the demo-ers to act like hosts and call on those people.
@@ -347,6 +350,7 @@ The following are some learnings from a few years of facilitating demos:
     - 1:1 encouragement – ask them about their project 1:1 during break sessions, show authentic curiosity, tell them “that would make a great demo”
 - **Managing dynamics:** The only time we’ve really ever really had tense conflict was during the question section of a demo. Be deliberate and step in if things are getting weird. If you think the vibes are off, the audience probably thinks so too. A gentle way to redirect a Q&A is to mention that time is up (if the conversation has been going for a while) or ask to move on to the next question and suggest folks discuss further after demos.
 - **Body language:** Remind people to close or lower their laptop screens, encourage folks to take off their headphones, pause side conversations,and to give the presenters their full attention. Encourage people to stand up and gather near the demoer when people are sitting down at their desks it’s easy for them to get distracted during peoples demos. If any of these are disruptive, don’t be afraid to pause the demoer and remind participants to give full attention to the demoer.
+Show encouragement during demos through visible gestures like smiling, nodding your head, and initiate clapping once they’re done their presentation. 
 
 **Common failure modes**
 
