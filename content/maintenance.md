@@ -26,8 +26,19 @@ To some extent, this document originated from the work existing hosts did to mak
 - Cultivate the relationships early
 - Look for people that already embody the values you want to carry forward
 - People that don’t know that they want to be hosts
-
+  
 See also: [[getting-started#How to find co-hosts]]
+
+### Onboarding new hosts
+A helpful way to onboard new hosts is to share some notes on Notion/Google Docs guiding them on organizing weekly sessions. These notes will vary depending on the session format you follow, but ones to consider can be: 
+
+- A to-do list of action items for:
+    - Pre-session (room set up, check sign up forms for accommodations and photo consent, etc.)
+    - Organizing activities (lead intro circles, curate demo line up during break, time demos, etc.)
+    - Post-session (upload pictures to shared Google Photos, message new people thanking them for coming, make new Luma event page for next week, etc.)
+- A list of potential icebreaker questions to easily choose from and keep track of questions already asked
+- A “demo diary” listing presenters and projects described in a brief sentence
+- A short video or written instructions explaining how to set up any audio/video equipment in the room
 
 <div class="article-header">
 
